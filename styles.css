@@ -105,9 +105,10 @@ header {
 }
 .home-img {
 	order: 3;
+	height: 74vh;
 }
 .home-img img {
-	width: 100%;
+	width: 118%;
 }
 .home-text span {
 	font-size: var(--medium-font);
